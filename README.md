@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Lenguajes de programación que manejo</h2>
+<h2 align="left">Herramientas de las que tengo conocimiento</h2>
 
 ###
 
